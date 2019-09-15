@@ -61,9 +61,11 @@
 {"name":"w61", "thumbUrl":"atzs0FS.jpg", "url":"EcM5ZBM.jpg"},
 {"name":"w62", "thumbUrl":"V9padem.jpg", "url":"kEYQDeC.jpg"},
 {"name":"w63", "thumbUrl":"MTpcGCo.jpg", "url":"zQc14AB.jpg"},
+{"name":"w66", "thumbUrl":"p6t3eLP.jpg", "url":"NQNH15J.jpg"},
+{"name":"w67", "thumbUrl":"McOo7BK.jpg", "url":"7bVVbpN.jpg"},
+
 {"name":"w64", "thumbUrl":"rLzNGH7.jpg", "url":"VNqUqaz.jpg"},
 {"name":"w65", "thumbUrl":"SFKlRLU.jpg", "url":"KBXFDRu.jpg"},
-
 {"name":"w26", "thumbUrl":"y4XFyRE.jpg", "url":"nPRQoqs.jpg"},
 {"name":"w27", "thumbUrl":"JwqqPpo.jpg", "url":"aYVZlm4.jpg"},
 {"name":"w28", "thumbUrl":"UQOcBQn.jpg", "url":"aVAif1L.jpg"},
